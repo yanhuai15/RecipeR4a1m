@@ -1,0 +1,1 @@
+Description: RecipeRealm is a social platform for food lovers and home chefs. It offers a vast collection of recipes, cooking tutorials, and meal planning tools. Users can share their culinary creations, exchange tips, and connect with a community of food enthusiasts.
